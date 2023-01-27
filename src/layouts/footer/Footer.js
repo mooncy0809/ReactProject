@@ -7,11 +7,11 @@ const Footer = () => {
       <Typography>
         © 2022 All rights reserved by{' '}
         <Link href='https://www.wrappixel.com'>
-          <a>Wrappixel.com</a>
+          Wrappixel.com
         </Link>{' '}
       </Typography>
     </Box>
-  )
+  );
 }
 
 export default Footer
